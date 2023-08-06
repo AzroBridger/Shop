@@ -1,0 +1,99 @@
+.linki{
+  color: black;
+  text-decoration: none;
+}
+
+.maini{
+  color: #666;
+  text-decoration: none;
+}
+
+.loginPage{
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.button_box {
+  margin-top: 3vh;
+  display: flex;
+  justify-content: center;
+}
+.button_box button{
+  height: 3vh;
+  width: 15%;
+  border-radius: 20px;
+}
+
+.button_active{
+  background-color: #999;
+}
+
+  
+.registration-cssave{
+  padding:50px 0;
+  
+  
+}
+  
+.registration-cssave {
+  
+  width: 40vw;
+  padding:50px 70px;
+  border-radius:10px;
+  box-shadow:4px 4px 15px rgba(0, 0, 0, 0.2);
+  background-color:#fff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+  
+.left_side_login h3{
+  font-weight:bold;
+  margin-bottom:30px;
+}
+  
+.registration-cssave .item {
+  border-radius:10px;
+  margin-bottom:25px;
+  padding:10px 20px;
+}
+  
+.registration-cssave .create-account {
+  border-radius:30px;
+  padding:10px 20px;
+  font-size:18px;
+  font-weight:bold;
+  background-color:#3f93ff;
+  border:none;
+  color:white;
+  margin-top:20px;
+}
+  
+.reg_form{
+  margin-top: 5vh;
+  display: flex;
+  justify-content: center;
+}
+
+.right_side_login{
+  float: right;
+  position: absolute;
+  top: 20%;
+  left: 60%;
+}
+
+.right_side_login button{
+  border-radius:30px;
+  padding:10px 20px;
+  font-size:14px;
+  font-weight:bold;
+  background-color:gray;
+  border:none;
+  color:white;
+  margin-top:20px;
+  
+}
+
+
+  

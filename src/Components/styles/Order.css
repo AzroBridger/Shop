@@ -1,0 +1,37 @@
+.delete_order_order{
+    color: #333;
+    float: right;
+    position: relative;
+    cursor: pointer;
+    transition: color, transform 500ms ease;
+}
+
+.delete_order_order:hover{
+    color: #dc3d3d;
+    transform: scale(1.2);
+}
+
+.item_div_order{
+    width: 100%;
+    float: left;
+}
+.item_div_order img{
+    width: 100px;
+    float: left;
+    margin-right: 20px;
+}
+
+.item_div_order h2{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.item_div_order p{
+    color: #797979;
+    font-weight: 600;
+}
+
+.empty_const_header h2{
+    font-size: 16px;
+    margin-bottom: 20px;
+}

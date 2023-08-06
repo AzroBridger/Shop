@@ -1,0 +1,151 @@
+.personal_app{
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    background-color: #fff;
+    margin-top: 3vh;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.left_side_bar button{
+    display: block;
+    padding: 10px 24px;
+    margin-bottom: 1vh;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+    display: flex;
+    height: 40px;
+    width: 240px;
+    
+}
+
+.left_side_bar{
+    padding: 10px;
+    margin-top: 1vh;
+    
+}
+.left_side_bar button h4{
+    margin-left: 0.5vw;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.left_side_title{
+    margin-left: 1.5vw;
+    margin-top: 2vh;
+}
+
+.button_online{
+    color: #fff;
+    background-color: #999;
+}
+
+.right_side_pers{
+    padding-left: 2vw;
+    width: 70vw;
+}
+
+.right_side_pers h2{
+    margin-top: 2vh;
+    font-weight: 500;
+}
+
+.right_side_image{
+    height: 100px;
+}
+
+.right_person_img{
+    margin-top: 3vh;
+}
+
+.profile_main_text{
+    margin-top: 3vh;
+    display: flex;
+}
+
+.profile_main_text p{
+    font-size: 12px;
+    margin-bottom: 1vh;
+    color: gray;
+}
+
+.profile_main_text input{
+    border: 1px solid gray;
+    height: 20px;
+    width: 250px;
+}
+
+.profile_set_box{
+    margin-right: 2vw;
+    margin-bottom: 2vh;
+}
+
+.profile_second_text{
+    margin-top: 3vh;
+    display: flex;
+}
+
+.profile_second_text p{
+    font-size: 12px;
+    margin-bottom: 1vh;
+    color: gray;
+}
+
+.profile_second_text input{
+    border: 1px solid gray;
+    height: 20px;
+    width: 250px;
+}
+
+.profile_button_accept{
+    margin-top: 3vh;
+    margin-bottom: 5vh;
+    height: 30px;
+    width: 200px;
+    cursor: pointer;
+    color: #555;
+    border: 1px solid gray;
+}
+
+.profile_second_box{
+    margin-top: 4vh;
+}
+
+.pass_page_box{
+    display: block;
+}
+
+.pass_box_set{
+    margin-top: 3vh;
+    color: #555;
+}
+
+.pass_box_set input{
+    border: 1px solid gray;
+    height: 20px;
+    width: 250px;
+}
+
+.submit_button_pass{
+    margin-top: 3vh;
+    margin-bottom: 5vh;
+    height: 30px;
+    width: 200px;
+    cursor: pointer;
+    color:#555;
+    border: 1px solid gray;
+}
+
+.orders_page_null{
+    display: flex;
+
+}
+.orders_page_null h2{
+    font-size: 14px;
+    display: block;
+    margin-left: 17vw;
+    color: #555;
+}
+

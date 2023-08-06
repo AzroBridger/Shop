@@ -1,0 +1,12 @@
+.message_box_message{
+  display: flex;
+  z-index: 1000;
+  top: 90%;
+  right:10%;
+  position:absolute;
+  height: 3vh;
+  width: 20vw;
+  background-color: gray;
+  justify-content: center;
+  border-radius: 25px;
+}
